@@ -1,2 +1,2 @@
 # Evaluation-Workshop
-Reference code for evaluation tasks
+This reference notebook includes key theory and code examples for learning best practices in LLM evaluation. 
